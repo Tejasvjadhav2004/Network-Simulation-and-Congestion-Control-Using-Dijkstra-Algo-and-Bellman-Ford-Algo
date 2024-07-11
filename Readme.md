@@ -24,7 +24,7 @@ This Java-based project pioneers network creation using robust graph data struct
 
 1. Clone the repository using Git:
    ```sh
-   git clone https://github.com/yourusername/network-simulation.git
+   git clone https://github.com/Tejasvjadhav2004/Network-Simulation-and-Congestion-Control-Using-Dijkstra-Algo-and-Bellman-Ford-Algo.git
 
 - ## Usage
 
